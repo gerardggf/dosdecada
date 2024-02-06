@@ -1,6 +1,6 @@
 # dosdecada
 
-A new Flutter project.
+Flutter Flame 2D game
 
 ## Getting Started
 
